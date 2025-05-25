@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "location": "New York",
+    "role": "Backend Developer",
+    "industry": "Technology",
+    "description": "Develop scalable backend services using Python and REST APIs."
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "location": "Remote",
+    "role": "Data Scientist",
+    "industry": "Finance",
+    "description": "Analyze large datasets to derive insights using machine learning techniques."
+  },
+  {
+    "id": 3,
+    "title": "DevOps Engineer",
+    "location": "San Francisco",
+    "role": "DevOps",
+    "industry": "Technology",
+    "description": "Implement CI/CD pipelines and manage cloud infrastructure."
+  }
+]
